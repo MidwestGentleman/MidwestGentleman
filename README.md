@@ -4,7 +4,7 @@
 
 - 🌱 I’m obsessed with all things crypto and have been for a while... I remember back in 2014 watching BTC fall from $1000+ to sub $200, and then also not touching it again until 2017 lol. I'm now fully sold on Web3 and have been getting more and more invloved in an attempt to transition full time. Unfortunelty most of my portfolio belongs to my clients, so i've been building out my dev portfolio with NFT projects on ETH and SOL and working with projects in the space. While I mostly build on the backend, I have some experience working with customer usability and human driven design, and am actively working to master React to display the utilities I build for the space.
 
-- 📫 You can reach me on Twitter @DHuts_; Discord @DHuts#9527; Email Web3DHuts@gmail.com
+- 📫 You can reach me on Twitter <a href = "https://twitter.com/DHuts_">@DHuts_</a> ; Discord <a href = "https://Discordapp.com/users/DHuts#9527">@DHuts#9527</a> ; Email <a href = "Mailto:Web3DHuts@gmail.com">Web3DHuts@gmail.com</a>
 
 You can check out my website here:
 www.TheUntappedPotential.com
